@@ -131,4 +131,4 @@ let value = "hello" as string;
 let el = document.querySelector("div")!;
 
 
-- !는 null이나 undefined가 아님을 단
+- !는 null이나 undefined가 아님을 단언
