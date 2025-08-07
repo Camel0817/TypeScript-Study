@@ -1,0 +1,25 @@
+{
+  "name": "ts-study",
+  "version": "1.0.0",
+  "description": "TypeScript-Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camel0817/TypeScript-Study.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "devCamel0817",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camel0817/TypeScript-Study/issues"
+  },
+  "homepage": "https://github.com/Camel0817/TypeScript-Study#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
